@@ -1,0 +1,47 @@
+[33mcommit 9858ee8c058164dbdfce9d5a70c1ef973d99db59[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: nati-m <it.natnael.mekonnen@gmail.com>
+Date:   Sat Mar 14 08:49:41 2020 +0300
+
+    added social media links and icons
+
+[33mcommit 42a1c18d44177ae84b79b3d07deb2ab7534fa7b6[m
+Author: nati-m <it.natnael.mekonnen@gmail.com>
+Date:   Fri Mar 13 21:17:49 2020 +0300
+
+    added profile picture; updated layout of about.html
+
+[33mcommit ab1d6f8023b0401f612cde9fa663f76fc3069584[m
+Author: nati-m <it.natnael.mekonnen@gmail.com>
+Date:   Fri Mar 13 09:41:27 2020 +0300
+
+    about.html updated
+
+[33mcommit 3f43b5b063d3d9d06f6e48697175a8710a254e2f[m
+Author: nati-m <it.natnael.mekonnen@gmail.com>
+Date:   Thu Mar 12 12:07:52 2020 +0300
+
+    Contact form validation added
+
+[33mcommit adbeb75bf81084bb4e56e0a3b4b8afa1a4b1d7bd[m
+Author: nati-m <it.natnael.mekonnen@gmail.com>
+Date:   Thu Mar 12 11:38:10 2020 +0300
+
+    Contact form added
+
+[33mcommit 7007f3007c9dd483cd89e9e096b5e7c4d4c5ca08[m
+Author: nati-m <it.natnael.mekonnen@gmail.com>
+Date:   Thu Mar 12 11:31:58 2020 +0300
+
+    Theme added
+
+[33mcommit 420a987c3a60295db84b37807835240a14575c95[m
+Author: nati-m <it.natnael.mekonnen@gmail.com>
+Date:   Wed Mar 11 21:59:38 2020 +0300
+
+    index page added
+
+[33mcommit 553e51d2e1201ff337c17549f1725c5eca9e16cc[m
+Author: nati-m <it.natnael.mekonnen@gmail.com>
+Date:   Wed Mar 11 12:57:23 2020 +0300
+
+    Initial commit

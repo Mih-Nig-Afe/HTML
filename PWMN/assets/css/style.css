@@ -1,0 +1,53 @@
+body{
+    background: url("https://www.peacetree.ca/wp-content/uploads/2020/04/original.jpg") center center fixed;
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+nav a{
+    font: 1.4rem "Bahnschrift Condensed";
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+}
+
+nav a:hover{
+    color: black;
+}
+
+nav a.nav-link.brand{
+    margin-left: 1.8rem;
+    margin-top: 2rem;
+}
+
+nav a.nav-link{
+    margin-top: 1.3rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+
+nav ul.social{
+    margin-left: 2rem;
+}
+
+nav li.nav-item.social-item{
+    margin-left: -0.7rem;
+    margin-right: -0.7rem;
+}
+
+nav .brand{
+    font-size: 2.9rem;
+}
+
+nav .brand-detail{
+    font-size: 1rem;
+    font-family: "Century Gothic";
+}
+
+nav .social:hover{
+    opacity: 0.3;
+}
+
+nav .social-item:hover{
+    opacity: 1;
+}
